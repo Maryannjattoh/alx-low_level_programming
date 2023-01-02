@@ -1,0 +1,4 @@
+ltrace
+ldd
+gdb
+objdump
