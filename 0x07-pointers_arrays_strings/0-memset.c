@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * *_memset - fill memomry buffer with constants bytes
+ * _memset - fill memomry buffer with constants bytes
  *
  * @s: ref parameter to store the address
  * @b: value parameter, number of bytes
